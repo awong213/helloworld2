@@ -1,0 +1,30 @@
+/* Style all paragraphs */
+p {
+    color: #333333;
+    font-size: 16px;
+}
+/* Style all level-two headings */
+h2 {
+    color: darkred;
+    font-size: 24px;
+}
+/* Add borders to tables and their cells */
+table, th, td {
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkred;
+}
+/* Style the goals paragraph */
+p#goals {
+    color: darkred;
+    background-color: lightyellow;
+}
+/* Style elements with the highlight class */
+.highlight {
+    background-color: lightyellow;
+}
+/* Set the logo image size */
+img.logo {
+    width: 300px;
+    height: auto;
+}
