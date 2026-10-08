@@ -28,3 +28,7 @@ img.logo {
     width: 300px;
     height: auto;
 }
+/* Style elements with the highlight class */
+.highlight {
+    background-color: lightyellow;
+}
